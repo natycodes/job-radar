@@ -1,6 +1,6 @@
-# Job Radar shortlist — 2026-10-20 17:08 UTC
+# Job Radar shortlist — 2026-10-20 17:09 UTC
 
-Fetched 15233 listings, 26 passed the filters, 0 new today.
+Fetched 15230 listings, 25 passed the filters, 0 new today.
 
 | # | Role | Company | Where | Posted | Fit | Source |
 |---|---|---|---|---|---|---|
@@ -29,4 +29,3 @@ Fetched 15233 listings, 26 passed the filters, 0 new today.
 | 23 | [Software Engineer, Robotics](https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-robotics-169035) | Circuithub | Remote (maybe) | 2026-10-20 | 10.9 | Arbeitnow |
 | 24 | [Senior Software Engineer, Data Pipeline](https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline) | Bloomreach | Europe (maybe) | 2026-10-18 | 10.82 | Jobicy |
 | 25 | [Senior Software Engineer, Product Platform](https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform) | Lithic | Anywhere in the World (maybe) | 2026-10-18 | 9.6 | We Work Remotely |
-| 26 | [https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience](https://news.ycombinator.com/item?id=50095249) | 3Gimbals | https://www.linkedin.com/jobs/view/44776 (maybe) | 2026-10-14 | 8.16 | Hacker News: Who is hiring |

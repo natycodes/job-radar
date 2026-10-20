@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-20T17:08:49.502073+00:00",
+ "generated_at": "2026-10-20T17:09:56.009220+00:00",
  "criteria": {
   "max_age_days": 8,
   "min_annual_usd": 12000
  },
  "counts": {
-  "fetched": 15233,
-  "passed_filters": 26,
-  "shortlist": 26,
+  "fetched": 15230,
+  "passed_filters": 25,
+  "shortlist": 25,
   "new_today": 0
  },
  "shortlist": [
@@ -484,7 +484,7 @@
    ],
    "stack_score": 7,
    "annual_usd_estimate": null,
-   "age_days": 5.1,
+   "age_days": 5.2,
    "rank": 15.85,
    "also_on": [],
    "id": "supabase|platform engineer managed postgres",
@@ -773,33 +773,6 @@
    "rank": 9.6,
    "also_on": [],
    "id": "lithic|senior software engineer product platform",
-   "first_seen": "2026-10-20",
-   "new_today": false
-  },
-  {
-   "source": "Hacker News: Who is hiring",
-   "title": "https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
-   "company": "3Gimbals",
-   "url": "https://news.ycombinator.com/item?id=50095249",
-   "posted": "2026-10-14T21:05:06+00:00",
-   "location": "https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
-   "description": "3Gimbals | https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
-   "salary": "",
-   "employment_type": "",
-   "eligibility": "maybe",
-   "eligibility_reason": "HN remote post, region unclear",
-   "stack_hits": [
-    "python",
-    "typescript",
-    "postgresql",
-    "aws"
-   ],
-   "stack_score": 8,
-   "annual_usd_estimate": null,
-   "age_days": 5.8,
-   "rank": 8.16,
-   "also_on": [],
-   "id": "3gimbals|https www linkedin com jobs view 4477632187 us remote hiring",
    "first_seen": "2026-10-20",
    "new_today": false
   }
