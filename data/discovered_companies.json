@@ -1,0 +1,30 @@
+{
+ "greenhouse": [
+  "givedirectly",
+  "manifest",
+  "mattermost",
+  "oklo"
+ ],
+ "lever": [
+  "apryse",
+  "curai"
+ ],
+ "ashby": [
+  "checkly",
+  "clickhouse",
+  "duck-duck-go",
+  "jupus",
+  "krakentech",
+  "livekit",
+  "mastra",
+  "oscilar",
+  "river",
+  "runway-ml",
+  "sentilink",
+  "solace"
+ ],
+ "workable": [
+  "modash",
+  "seeq"
+ ]
+}
