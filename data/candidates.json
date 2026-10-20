@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-20T17:04:14.058179+00:00",
+ "generated_at": "2026-10-20T17:08:49.502073+00:00",
  "criteria": {
   "max_age_days": 8,
   "min_annual_usd": 12000
  },
  "counts": {
-  "fetched": 15231,
-  "passed_filters": 63,
-  "shortlist": 40,
-  "new_today": 63
+  "fetched": 15233,
+  "passed_filters": 26,
+  "shortlist": 26,
+  "new_today": 0
  },
  "shortlist": [
   {
@@ -41,11 +41,11 @@
    "stack_score": 17,
    "annual_usd_estimate": null,
    "age_days": 0.5,
-   "rank": 31.48,
+   "rank": 31.47,
    "also_on": [],
    "id": "ams accelerate it|senior ai platform engineer",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Himalayas",
@@ -79,45 +79,11 @@
    "stack_score": 17,
    "annual_usd_estimate": null,
    "age_days": 1.2,
-   "rank": 29.85,
+   "rank": 29.84,
    "also_on": [],
    "id": "heckerbella limited|full stack developer",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Arbeitnow",
-   "title": "Stage Développeur Full Stack (H/F)",
-   "company": "OHana Entreprise",
-   "url": "https://www.arbeitnow.fr/jobs/companies/ohana-entreprise/stage-developpeur-full-stack-h-f-paris-163341",
-   "posted": "2026-10-18T18:00:58+00:00",
-   "location": "Paris",
-   "description": "OHana Entreprise est une société de développement de logiciels et d'applications web et mobiles, basée à Paris. Nous accompagnons nos clients en France et en Afrique avec des solutions numériques sur mesure, au sein d'une équipe internationale. Nous recherchons un(e) stagiaire développeur full stack pour rejoindre nos équipes techniques et travailler sur des projets clients concrets, avec des technologies modernes. Vos missions Participer au développement d'applications web et mobiles, du front-end au back-end Concevoir et intégrer des interfaces modernes et des API RESTDévelopper des interfaces mobiles multiplateformes (React Native ou Flutter) Travailler sur les bases de données et l'architecture des projets clientsÉcrire du code propre et testé, participer aux revues de code Contribuer à la mise en production (CI/CD) et à la maintenance des applications Vos compétences Étudiant(e) en école d'ingénieur, master ou formation équivalente en informatique Maîtrise de TypeScript/JavaScript moderne, de React et de Next.js (App Router, Server Components) Bonne connaissance de Node.js avec Express ou NestJS, ou de Python avec FastAPI ou Django Maîtrise de PostgreSQL et d'un ORM moderne (Prisma ou Drizzle), notions de Redis Maîtrise de Git, Docker et des pipelines CI/CD (GitHub Actions) Conception et consommation d'API REST (GraphQL apprécié) Sont un plus : Tailwind CSS, React Native ou Flutter, tests automatisés (Jest, Vitest, Playwright), notions de cloud (AWS ou équivalent)Utilisa",
-   "salary": "",
-   "employment_type": "Stage (convention de stage), internship, professionnel / expérimenté",
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Paris",
-   "stack_hits": [
-    "python",
-    "django",
-    "fastapi",
-    "node.js",
-    "express",
-    "typescript",
-    "nestjs",
-    "postgresql",
-    "redis",
-    "aws",
-    "docker"
-   ],
-   "stack_score": 25,
-   "annual_usd_estimate": null,
-   "age_days": 2.0,
-   "rank": 29.04,
-   "also_on": [],
-   "id": "ohana entreprise|stage d veloppeur full stack h f",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Himalayas",
@@ -152,7 +118,7 @@
    "also_on": [],
    "id": "nitka|senior python developer",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "We Work Remotely",
@@ -180,11 +146,11 @@
    "stack_score": 14,
    "annual_usd_estimate": null,
    "age_days": 1.3,
-   "rank": 27.68,
+   "rank": 27.67,
    "also_on": [],
    "id": "proxify ab|senior backend developer node js nest js",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "We Work Remotely",
@@ -213,46 +179,7 @@
    "also_on": [],
    "id": "proxify ab|senior backend developer python",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Senior Backend Developer",
-   "company": "Freelance Latin America",
-   "url": "https://himalayas.app/companies/freelance-latin-america/jobs/senior-backend-developer?utm_source=api",
-   "posted": "2026-10-14T13:57:20+00:00",
-   "location": "Venezuela (timezones: -4)",
-   "description": "We are looking for an experienced Senior Backend Developer with strong expertise in Python, Django, and PostgreSQL to support the development, optimization, and maintenance of scalable backend applications. We are looking for an experienced Senior Backend Developer with strong expertise in Python, Django, and PostgreSQL to support the development, optimization, and maintenance of scalable backend applications. The ideal candidate has a solid understanding of database architecture, API development, system performance, and security best practices. This role is ideal for a detail-oriented developer who enjoys solving complex technical challenges and building reliable, high-performance solutions. Duties / Task to Perform Develop, maintain, and optimize backend applications using Python, Django, and Django REST Framework (DRF). Design and manage PostgreSQL databases, ensuring efficient data structures, indexing, and query optimization. Build and maintain RESTful APIs to support application functionality and system integrations. Analyze and improve database performance, scalability, and overall system efficiency. Implement and maintain logging and monitoring solutions using the ELK Stack (Elasticsearch, Logstash, and Kibana). Work with Docker to containerize applications and maintain consistent development environments. Support application deployment and infrastructure-related tasks using AWS services. Apply encryption, authentication, and security best practices to protect applica",
-   "salary": "35000-35000 USD per year",
-   "employment_type": "Full Time",
-   "seniority": [
-    "Senior"
-   ],
-   "salary_min": 35000,
-   "salary_max": 35000,
-   "salary_currency": "USD",
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Venezuela (timezones: -4)",
-   "stack_hits": [
-    "python",
-    "django",
-    "celery",
-    "drf",
-    "django rest",
-    "postgresql",
-    "redis",
-    "aws",
-    "docker",
-    "backend"
-   ],
-   "stack_score": 22,
-   "annual_usd_estimate": 35000,
-   "age_days": 6.1,
-   "rank": 25,
-   "also_on": [],
-   "id": "freelance latin america|senior backend developer",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Himalayas",
@@ -283,11 +210,11 @@
    "stack_score": 14,
    "annual_usd_estimate": null,
    "age_days": 4.3,
-   "rank": 23.72,
+   "rank": 23.71,
    "also_on": [],
    "id": "spotter labs|remote fullstack engineer react django ai systems",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Himalayas",
@@ -320,7 +247,7 @@
    "also_on": [],
    "id": "ams accelerate it|senior backend engineer",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Himalayas",
@@ -353,7 +280,7 @@
    "also_on": [],
    "id": "novakid school|python backend developer fullstack capable",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Jobicy",
@@ -381,11 +308,11 @@
    "stack_score": 12,
    "annual_usd_estimate": null,
    "age_days": 3.5,
-   "rank": 22.47,
+   "rank": 22.46,
    "also_on": [],
    "id": "supabase|software engineer auth",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Himalayas",
@@ -414,48 +341,11 @@
    "stack_score": 7,
    "annual_usd_estimate": null,
    "age_days": 0.9,
-   "rank": 21.14,
+   "rank": 21.13,
    "also_on": [],
    "id": "m365connect|senior ai full stack engineer devops technical leadership",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Senior AI-Assisted Software Engineer",
-   "company": "Nexer Group",
-   "url": "https://himalayas.app/companies/nexer-group/jobs/senior-ai-assisted-software-engineer?utm_source=api",
-   "posted": "2026-10-15T20:04:45+00:00",
-   "location": "Czechia (timezones: 1)",
-   "description": "AboutUsNexer Czech Republic is a division within DANIR AB, anITconsultingandR&Dcompany. AboutUs Nexer Czech Republic is a division within DANIR AB, anITconsultingandR&Dcompany.Wehavetheopportunitytoworkwithworld-renownedbrandsfromScandinavia,theUSA,theUK,andWesternEurope.Ourgoalistogrowstrong,focusingoncompetenciesratherthannumbers. TheProjectandtheRoleDescription At Nexer Czech Republic, we are looking for a Senior AI-Assisted Software Engineer to join an international team delivering enterprise platforms for workflow automation, pricing, tender management, and system integration. We are seeking a hands-on engineer who can turn complex business and technical challenges into reliable production solutions. You'll work across the full delivery lifecycle while leveraging AI-assisted engineering tools such as GitHub Copilot to accelerate development, improve quality, and drive innovation. Tasks Own problems end-to-end, from initial discovery through production delivery and support Collaborate with Product Owners, architects, engineers, testers, and business stakeholders to define and deliver solutions Design and implement backend services, web applications, APIs, integrations, data flows, and cloud-based solutions Build prototypes, validate solutions with users, and iteratively improve outcomes Ensure solutions meet requirements for scalability, security, resilience, maintainability, and operational readiness Use AI-assisted engineering tools to support development, testing, trou",
-   "salary": "",
-   "employment_type": "Full Time",
-   "seniority": [
-    "Senior"
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_currency": null,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Czechia (timezones: 1)",
-   "stack_hits": [
-    "python",
-    "django",
-    "fastapi",
-    "typescript",
-    "postgresql",
-    "mongodb",
-    "docker",
-    "backend"
-   ],
-   "stack_score": 19,
-   "annual_usd_estimate": null,
-   "age_days": 4.9,
-   "rank": 21.13,
-   "also_on": [],
-   "id": "nexer group|senior ai assisted software engineer",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "We Work Remotely",
@@ -482,42 +372,7 @@
    "also_on": [],
    "id": "proxify ab|senior fullstack developer react js node js",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Senior Full-Stack Engineer (Tech Lead)",
-   "company": "Flatgigs",
-   "url": "https://himalayas.app/companies/flatgigs/jobs/senior-full-stack-engineer-tech-lead?utm_source=api",
-   "posted": "2026-10-20T05:17:18+00:00",
-   "location": "United Arab Emirates (timezones: 4)",
-   "description": "FlatGigs is hiring on behalf of our client — a UAE-based technology company building scalable digital and logistics platforms for modern enterprises. FlatGigs is hiring on behalf of our client — a UAE-based technology company building scalable digital and logistics platforms for modern enterprises. Their mission is to create high-performance, secure systems designed for long-term growth and operational excellence. About the Role We’re looking for a Senior Full-Stack Engineer (Tech Lead) to design, build, and guide the development of a full-stack logistics platform using Django and React. You’ll lead backend architecture, develop responsive dashboards, and mentor the engineering team. Key Responsibilities Lead full-stack design and development using Django REST Framework and React.js Architect scalable backend and frontend systems with robust APIs and data workflows Build responsive dashboards with real-time data visualizations Collaborate with product, design, and engineering teams to translate business needs into code Maintain CI/CD pipelines and enforce code quality standards Explore and adopt new technologies to improve performance and scalability Requirements 5+ years of full-stack development experience Proficiency in Python (Django REST Framework) , React , and PostgreSQL Strong knowledge of API design, cloud architecture, and CI/CD Excellent problem-solving, leadership, and communication skills Originally posted on Himalayas",
-   "salary": "",
-   "employment_type": "Full Time",
-   "seniority": [
-    "Senior",
-    "Manager"
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_currency": null,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: United Arab Emirates (timezones: 4)",
-   "stack_hits": [
-    "python",
-    "django",
-    "django rest",
-    "postgresql",
-    "backend"
-   ],
-   "stack_score": 14,
-   "annual_usd_estimate": null,
-   "age_days": 0.5,
-   "rank": 20.51,
-   "also_on": [],
-   "id": "flatgigs|senior full stack engineer tech lead",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Ashby (supabase)",
@@ -544,7 +399,7 @@
    "also_on": [],
    "id": "supabase|sdk engineer python",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Arbeitnow",
@@ -572,101 +427,7 @@
    "also_on": [],
    "id": "circuithub|software engineer applied ai",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Realtime Backend Engineer (LiveKit / SIP)",
-   "company": "Nairon",
-   "url": "https://himalayas.app/companies/nairon/jobs/realtime-backend-engineer-livekit-sip?utm_source=api",
-   "posted": "2026-10-16T13:53:44+00:00",
-   "location": "Greece (timezones: 2)",
-   "description": "IntroFor this position we are only looking for candidates located in Greece. Intro For this position we are only looking for candidates located in Greece . Nairon is a Swiss startup building AI voice agents that answer and make phone calls for businesses. Our platform runs real-time conversations over the phone and on the web, connected to our customers' telephony and business tools. We value clear communication, thoughtful engineering, and a collaborative approach to problem-solving. Join us as we continue to develop tools that make a difference. Tasks As a Realtime Backend Engineer at NAIRON, you will build the services that carry every call and every event through our platform. Your responsibilities will include: Designing, building and running microservices around our LiveKit -based real-time media platform. Working with messaging and realtime data systems such as NATS , Kafka and Redis-compatible stores. Connecting phone calls to the platform: SIP trunks, routing, transfers and call quality, together with the team. Building integrations with our customers' systems, such as CRMs, calendars and ticketing tools. Running services in the cloud with Docker and Kubernetes , with metrics, logs and traces you can trust. Taking part in code reviews, technical discussions and architectural planning. Requirements Experience: A mid-level to senior backend engineer with experience running distributed, real-time systems in production. Technical Skills: Required: Strong Python (asyncio,",
-   "salary": "",
-   "employment_type": "Full Time",
-   "seniority": [
-    "Mid-level"
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_currency": null,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Greece (timezones: 2)",
-   "stack_hits": [
-    "python",
-    "fastapi",
-    "typescript",
-    "redis",
-    "aws",
-    "docker",
-    "microservices",
-    "backend"
-   ],
-   "stack_score": 16,
-   "annual_usd_estimate": null,
-   "age_days": 4.1,
-   "rank": 17.87,
-   "also_on": [],
-   "id": "nairon|realtime backend engineer livekit sip",
-   "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Arbeitnow",
-   "title": "Full-stack Developer",
-   "company": "ADOMIK",
-   "url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
-   "posted": "2026-10-19T17:00:57+00:00",
-   "location": "Paris",
-   "description": "As a leading ad tech company, we help publishers thrive in an increasingly challenging and complex digital world dominated by GAFAs. Our unique AI-based SaaS platform offers a range of products that help publishers optimize their revenue and operational efficiency. Over 100 prestigious customers in 20 countries, including industry leaders such as Microsoft, Dotdash Meredith, and Tripadvisor, use our solutions daily. Tasks Are you a full-stack developer who loves delivering features from end to end? Would you like to work in a start-up environment for the leader in Adtech analytics, using cutting-edge tools like Claude Code to accelerate your workflow? If you enjoy working on problems involving large amounts of data, are curious, passionate, and care about delivering quality user experiences, join our team of talented developers. As part of the BUILD team, you'll be responsible for developing features across our products' full stack — from API design to user interface — with complete autonomy. No more silos: you own your features from start to finish. You will participate in technical design workshops, propose improvements, and work closely with the Product team daily, as well as with our data engineers and data scientists. Mission Deliver end-to-end features, from API design (Ruby on Rails) to user interface implementation (React), ensuring a seamless user experience. Collaborate closely with the Product team to understand requirements, propose solutions, and iterate on feedb",
-   "salary": "",
-   "employment_type": "Self-employed/freelance (auto-entrepreneur/indépendant), freelance, professional / experienced",
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Paris",
-   "stack_hits": [
-    "python",
-    "typescript",
-    "mysql",
-    "redis",
-    "mongodb",
-    "aws",
-    "backend"
-   ],
-   "stack_score": 12,
-   "annual_usd_estimate": null,
-   "age_days": 1.0,
-   "rank": 17.0,
-   "also_on": [],
-   "id": "adomik|full stack developer",
-   "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Ashby (clickhouse)",
-   "title": "Full Stack Software Engineer - SQL Console",
-   "company": "Clickhouse",
-   "url": "https://jobs.ashbyhq.com/clickhouse/1176ec78-e10d-4acd-8af8-47406af929ee",
-   "posted": "2026-10-19T05:49:24.124000+00:00",
-   "location": "Europe or US",
-   "description": "About the SQL Console Team The SQL Console team operates like an autonomous startup inside ClickHouse, building the rich web interfaces, interactive query environments, data visualization dashboards, and dynamic AI agents that developers use daily to interact with ClickHouse Cloud. We solve extreme UI performance and scalability challenges that only a handful of tech companies in the world ever reach. We are builder-first, heavily leverage modern AI coding tools like Cursor and Claude, and give engineers end-to-end product ownership. What You Will Do - Build highly interactive React web applications, developer tools, and IDE extensions handling real-time, high-throughput data streaming. - Optimize frontend rendering performance, state management, and DOM virtualization for large-scale datasets and complex visualizations. - Write high-performance Node.js / Express services when API, data streaming, or backend optimizations are required. - Act with a founder mindset: take ambiguous product problems, architect clean solutions, and ship maintainable code with high autonomy. - Leverage modern AI development tools (Cursor, Claude, Codex) as force multipliers to ship features rapidly. What We Are Looking For - React Architecture Depth: Deep expertise in building complex, state-heavy web applications in React (Zustand, Redux, TanStack Query, or Context API). - Rendering & Data Viz Performance: Proven ability to handle high-volume data rendering using DOM virtualization (react-window)",
-   "salary": "$142K – $250K",
-   "employment_type": "FullTime",
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Europe or US",
-   "stack_hits": [
-    "node.js",
-    "express",
-    "microservices",
-    "backend"
-   ],
-   "stack_score": 8,
-   "annual_usd_estimate": 250000,
-   "age_days": 1.5,
-   "rank": 16.53,
-   "also_on": [],
-   "id": "clickhouse|full stack software engineer sql console",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Jobicy",
@@ -682,7 +443,7 @@
    "salary_max": null,
    "salary_currency": "GBP",
    "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Europe",
+   "eligibility_reason": "Europe: check whether non-EU residents can apply",
    "stack_hits": [
     "python",
     "node.js",
@@ -698,98 +459,7 @@
    "also_on": [],
    "id": "northflank|backend software engineer",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Greenhouse (launchdarkly)",
-   "title": "Senior Full Stack Engineer, AgentControl",
-   "company": "LaunchDarkly",
-   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8011709003",
-   "posted": "2026-10-15T19:11:59+00:00",
-   "location": "Remote - US",
-   "description": "About the Job: As a Senior Full Stack Engineer on LaunchDarkly’s AgentControl team, you'll build critical systems such as the web application that customers interact with on a daily basis and distributed systems that power AI evaluations at scale. These systems enable customers to control, monitor, and optimize their agent’s functionality. LaunchDarkly’s AgentControl team is on a mission to manage the complete software development lifecycle for shipping agents to production, from configuring to benchmarking to observing and beyond. AgentControl enables teams to adjust agent behavior without needing a redeploy or code change, while also running experiments, monitoring agents in production, and putting guardrails around AI as usage scales. The product spans offline evals, real-time observability, prompt and workflow optimization, and decision-making around quality, accuracy, relevance, and cost. The AgentControl team has a huge opportunity ahead of it; it's a strategic bet for LaunchDarkly, and we need your help writing the next chapter in our story. Responsibilities: Build and maintain scalable backend services, distributed systems, and APIs that power the AgentControl product You’ll primarily work in Go, Python, and TypeScript and will work directly with other technologies and tools such as AWS, CockroachDB, Datadog, DeepEval, and FastAPI. Collaborate with internal stakeholders, including product managers, designers, and other LaunchDarkly engineering teams, to understand rea",
-   "salary": "",
-   "employment_type": "",
-   "date_is_update": false,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Remote - US",
-   "stack_hits": [
-    "python",
-    "fastapi",
-    "typescript",
-    "aws",
-    "backend"
-   ],
-   "stack_score": 12,
-   "annual_usd_estimate": null,
-   "age_days": 4.9,
-   "rank": 16.09,
-   "also_on": [],
-   "id": "launchdarkly|senior full stack engineer agentcontrol",
-   "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Greenhouse (affirm)",
-   "title": "Senior Software Engineer, Backend (Identity Data)",
-   "company": "Affirm",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017503003",
-   "posted": "2026-10-20T16:15:39+00:00",
-   "location": "Remote US",
-   "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Identity Engineering owns the systems responsible for onboarding all consumers and managing their authentication and verification journeys across Affirm’s product surfaces. In this role, you will need to gain a deep understanding of the business, product and engineering context, and utilize that context to own and deliver high-availability and low-latency systems on the critical paths for all of our products What you'll do You will be responsible for owning and delivering quarterly goals for your team, leading engineers on your team through ambiguity to solve open-ended problems, and ensuring that everyone is supported throughout delivery. You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs. You will proactively identify project, process, technology or business issues, advocate for them, and lead in solving them. You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” & on-call efforts. You will foster a culture of quality and ownership on your team by setting or ",
-   "salary": "",
-   "employment_type": "",
-   "date_is_update": false,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Remote US",
-   "stack_hits": [
-    "python",
-    "mysql",
-    "aws",
-    "backend"
-   ],
-   "stack_score": 7,
-   "annual_usd_estimate": null,
-   "age_days": 0.0,
-   "rank": 15.97,
-   "also_on": [],
-   "id": "affirm|senior software engineer backend identity data",
-   "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Remote Senior Backend Engineer",
-   "company": "Pearl Talent",
-   "url": "https://himalayas.app/companies/pearl-talent/jobs/remote-senior-backend-engineer?utm_source=api",
-   "posted": "2026-10-17T15:12:46+00:00",
-   "location": "Dominican Republic, Honduras (timezones: -6, -4)",
-   "description": "Work From Anywhere in LATAMWork Schedule: EST | Full overlap with US Eastern business hours About Pearl TalentPearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Work From Anywhere in LATAM Work Schedule: EST | Full overlap with US Eastern business hours About Pearl Talent Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed by companies like OpenAI, a16z, and Founders Fund. Hear why we exist, what we believe in, and who we’re building for: Watch here About the Client A seed-stage healthcare data company is building the central source of payer policy data behind coverage decisions, and is looking for a Senior Backend Engineer to own its data infrastructure end to end. The company collects and structures more than 100,000 medical policies from over 100 insurance payers, using AI to turn complex payer rules into searchable data for customers. It is backed by healthcare accelerators and the National Institutes of Health, recently signed a commercial partnership, and is now scaling its applied AI systems. About the Role Day to day, you will scale the web scraping platform, build LLM workflows that pull medical codes and coverage rules out of policy text, and improve the reliability of scraper jobs and deployments. As technical lead, you will review code and make architectural decis",
-   "salary": "",
-   "employment_type": "Full Time",
-   "seniority": [
-    "Senior"
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_currency": null,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Dominican Republic, Honduras (timezones: -6, -4)",
-   "stack_hits": [
-    "python",
-    "fastapi",
-    "postgresql",
-    "aws",
-    "backend"
-   ],
-   "stack_score": 12,
-   "annual_usd_estimate": null,
-   "age_days": 3.1,
-   "rank": 15.92,
-   "also_on": [],
-   "id": "pearl talent|remote senior backend engineer",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Jobicy",
@@ -819,73 +489,7 @@
    "also_on": [],
    "id": "supabase|platform engineer managed postgres",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Python Team Lead, Integration team",
-   "company": "Fliff",
-   "url": "https://himalayas.app/companies/fliff/jobs/python-team-lead-integration-team-5292940509?utm_source=api",
-   "posted": "2026-10-15T05:55:30+00:00",
-   "location": "Cyprus (timezones: 2)",
-   "description": "We’re looking for a Python Team Lead to join our Integration team, which owns a broad set of critical integrations across the product. We’re looking for a Python Team Lead to join our Integration team, which owns a broad set of critical integrations across the product. The team is responsible for integrations with KYC providers, geolocation services, payment methods, and other external systems that are essential to product operation and user experience. Our Stack : Python, Django, Postgres, Redis, Kafka, AWS Responsibilities Provide leadership for a team Take full ownership of backend features and improvements, from design through implementation, deployment, and production support Design, develop, and maintain scalable, high-performance backend services using Python and Django Build and maintain integrations with external systems, including KYC, geolocation, and payment partners, and other third-party services Work closely with product and engineering teams to scope and deliver new integrations Implement observability across integration flows, including monitoring, logging, and alerting Write unit and integration tests to ensure system reliability, prevent regressions, and improve overall test coverage and testing practices Support production issues and participate in on-call rotations Requirements Experience leading and managing a team of at least 3 engineers At least 5+ years of development experience, with Python as the primary language and strong experience in API and sys",
-   "salary": "",
-   "employment_type": "Contractor",
-   "seniority": [
-    "Manager"
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_currency": null,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Cyprus (timezones: 2)",
-   "stack_hits": [
-    "python",
-    "django",
-    "postgres",
-    "redis",
-    "aws",
-    "backend"
-   ],
-   "stack_score": 14,
-   "annual_usd_estimate": null,
-   "age_days": 5.5,
-   "rank": 15.54,
-   "also_on": [],
-   "id": "fliff|python team lead integration team",
-   "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Jobicy",
-   "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
-   "company": "Hopper",
-   "url": "https://jobicy.com/jobs/153659-senior-full-stack-engineer-realtime-voice-customer-experience-platform",
-   "posted": "2026-10-20T04:15:09+00:00",
-   "location": "UK",
-   "description": "About the Role HTS Assist is Hopper's agentic AI assistant for travel, resolving flight changes, cancellations, refunds, and bookings over chat and voice for some of the world's largest travel brands. We're looking for a senior full stack engineer to anchor this product, owning the realtime and voice layer end to end while building across… About the Role HTS Assist is Hopper 's agentic AI assistant for travel, resolving flight changes, cancellations, refunds, and bookings over chat and voice for some of the world's largest travel brands. We're looking for a senior full stack engineer to anchor this product, owning the realtime and voice layer end to end while building across React/TypeScript front ends, Scala and Python services, and cloud infrastructure. The team is lean and senior, ownership is broad, and the path from your code to a traveler's phone call is short. What would your day-to-day look like Own the voice channel end to end, including telephony and CPaaS integrations (e.g., Twilio, Amazon Connect), streaming speech-to-text and text-to-speech pipelines, realtime model orchestration, and latency and quality budgets Build product features across the stack, including web chat front ends in React/TypeScript, backend services in Scala and Python, and infrastructure on GCP Design for multi-tenant scale, with one codebase serving many partners through configuration rather than forks Build the safety and compliance plumbing enterprise partners audit, including guardrails, ",
-   "salary": "",
-   "employment_type": "Full-Time",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_currency": null,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: UK",
-   "stack_hits": [
-    "python",
-    "typescript",
-    "aws",
-    "microservices",
-    "backend"
-   ],
-   "stack_score": 9,
-   "annual_usd_estimate": null,
-   "age_days": 0.5,
-   "rank": 15.47,
-   "also_on": [],
-   "id": "hopper|senior full stack engineer realtime voice customer experienc",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "We Work Remotely",
@@ -911,64 +515,7 @@
    "also_on": [],
    "id": "askable|software engineer ai coding tasks contract",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Greenhouse (launchdarkly)",
-   "title": "Backend Software Engineer, SDK",
-   "company": "LaunchDarkly",
-   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8015117003",
-   "posted": "2026-10-19T20:38:58+00:00",
-   "location": "Remote - US",
-   "description": "About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in production, and respond quickly when risk appears. Our engineers build the systems, services, SDKs, developer tools, cloud infrastructure, and product experiences that make this possible. The work spans high-scale distributed systems, reliable data and event pipelines, intuitive enterprise workflows, and AI-powered capabilities that help teams manage the next generation of software delivery. LaunchDarkly’s SDKs are used in systems that perform trillions of feature flag evaluations each day, giving our engineering work a direct connection to the reliability and customer experience of software around the world. As the company grows, we are expanding beyond traditional feature management into experimentation, observability, and AgentControl—helping customers control more of the software and AI lifecycle. That creates an unusually broad set of technical challenges, visible customer impact, and room for engineers to shape what comes next. We believe in the power of teams. We work with humility, openness, curiosity, and care; we value clear communication, thoughtful technical judgment, inclusive collaboration, and a strong sense of ownership. We encourage people to apply even when they do ",
-   "salary": "",
-   "employment_type": "",
-   "date_is_update": false,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Remote - US",
-   "stack_hits": [
-    "python",
-    "nodejs",
-    "backend"
-   ],
-   "stack_score": 8,
-   "annual_usd_estimate": null,
-   "age_days": 0.9,
-   "rank": 15.15,
-   "also_on": [],
-   "id": "launchdarkly|backend software engineer sdk",
-   "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Greenhouse (robinhood)",
-   "title": "Senior Software Engineer, International",
-   "company": "Robinhood",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8126312?t=gh_src=&gh_jid=8126312",
-   "posted": "2026-10-14T08:57:55+00:00",
-   "location": "Menlo Park, CA; New York, NY",
-   "description": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The International engineering team's mission is to expand Robinhood's products globally and scale our platform to support millions of new customers in diverse markets. We build and maintain experiences across onboarding, funding, account setup, localized product experiences, growth incentives, and platform capabilities to operate in new jurisdictions. Our engineering team partners closely with product, design, compliance, marketing teams, along with an array of platform engineering teams to launch new products and optimize user acquisition globally. We prioritize technical rigor, system reliability, and quick execution to deliver reliable products to our growing customer base. Our cul",
-   "salary": "",
-   "employment_type": "",
-   "date_is_update": false,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Menlo Park, CA; New York, NY",
-   "stack_hits": [
-    "python",
-    "typescript",
-    "postgresql",
-    "mysql",
-    "redis",
-    "backend"
-   ],
-   "stack_score": 12,
-   "annual_usd_estimate": null,
-   "age_days": 6.3,
-   "rank": 15,
-   "also_on": [],
-   "id": "robinhood|senior software engineer international",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Ashby (supabase)",
@@ -994,7 +541,7 @@
    "also_on": [],
    "id": "supabase|platform engineer compute",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Remote OK",
@@ -1022,77 +569,11 @@
    "stack_score": 13,
    "annual_usd_estimate": null,
    "age_days": 5.0,
-   "rank": 14.96,
+   "rank": 14.95,
    "also_on": [],
    "id": "wrapbook|senior software engineer ii applied ai",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Full-Stack Engineer",
-   "company": "All Generation Tech",
-   "url": "https://himalayas.app/companies/all-generation-tech/jobs/full-stack-engineer?utm_source=api",
-   "posted": "2026-10-20T12:58:56+00:00",
-   "location": "Bangladesh (timezones: 6)",
-   "description": "AGT Software Partners specializes in designing secure, scalable, and AI-powered digital solutions for enterprises worldwide. AGT Software Partners specializes in designing secure, scalable, and AI-powered digital solutions for enterprises worldwide. Our expertise spans Cloud Engineering, Custom Software Development, DevOps and Automation, Data and Analytics, Cybersecurity, and Low Code platforms. We partner with global industries - including Fintech, Healthcare, Insurance, Education, and Retail - to deliver enterprise-grade technology that accelerates digital transformation and drives operational efficiency. We are seeking a talented Full-Stack Developer to join our team and build high-quality, scalable enterprise applications, with a focus on Insurance and Financial Services solutions. You will collaborate with clients, delivery teams, and stakeholders to design and implement innovative solutions that meet complex business and technical requirements. This role requires hands-on expertise in both front-end and back-end development, cloud deployments, and modern application architectures. What You'll Do: Design and develop full-stack (MERN) enterprise applications in alignment with business requirements. Collaborate directly with clients to capture, clarify, and document business and functional needs. Propose, present, and defend technical solution approaches, providing architectural and engineering guidance. Deliver innovative solutions to address complex business and technic",
-   "salary": "",
-   "employment_type": "Full Time",
-   "seniority": [
-    "Mid-level"
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_currency": null,
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Bangladesh (timezones: 6)",
-   "stack_hits": [
-    "node.js",
-    "express",
-    "typescript",
-    "mongodb",
-    "microservices"
-   ],
-   "stack_score": 9,
-   "annual_usd_estimate": null,
-   "age_days": 0.2,
-   "rank": 14.83,
-   "also_on": [],
-   "id": "all generation tech|full stack engineer",
-   "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Himalayas",
-   "title": "Full Stack Developer React & NodeJs",
-   "company": "Astra Group",
-   "url": "https://himalayas.app/companies/astra-group/jobs/full-stack-developer-react-nodejs?utm_source=api",
-   "posted": "2026-10-20T12:15:10+00:00",
-   "location": "Chile (timezones: -6, -4, -3)",
-   "description": "Objetivo• Buscamos un talento proactivo y con opinión a la hora de definir y desarrollar productos digitales para ser parte del teamDEV de la Empresa. Objetivo Buscamos un talento proactivo y con opinión a la hora de definir y desarrollar productos digitales para ser parte del teamDEV de la Empresa. Que se involucre activamente en el desarrollo Mobile/Web y de servicios a través de NodeJs , que participe activamente de nuestras células ágiles a las que deberá integrarse y contribuir para acelerar el time to market de los productos digitales. Funciones Acotar juntos con el equipo las necesidades del negocio y convertirlas en requerimientos para su desarrollo y despliegue Desarrollo e integración de nuevas funcionalidades en nuestras aplicaciones web y mobile Entender y proponer acciones para mejorar tanto el producto, como el proceso de desarrollo Experiencia: EXCLUYENTES: Más de 3 años de experiencia con React Native y Node Js Dominio de SQL (Microsoft SQL Server y PostgreSQL).. 2 años de experiencia en React Js. Necesitamos un talento que tenga la experiencia solicitada, ya que no contamos con la posibilidad de capacitarlo en las tematicas excluyentes, debe ser autónomo desde el inicio. Más de 3 años de experiencia con React Native y Node Js 2 años de experiencia en React Js (excluyente). Estudios Estudios de la carrera de Ing. de Sistemas, computación, informática, software y electrónica o carreras afines. (Estudio técnico concluido) Más de 3 años de experiencia con React N",
-   "salary": "2600000-2800000 CLP per year",
-   "employment_type": "Full Time",
-   "seniority": [
-    "Mid-level"
-   ],
-   "salary_min": 2600000,
-   "salary_max": 2800000,
-   "salary_currency": "CLP",
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Chile (timezones: -6, -4, -3)",
-   "stack_hits": [
-    "nodejs",
-    "node",
-    "postgresql"
-   ],
-   "stack_score": 7,
-   "annual_usd_estimate": 2800000,
-   "age_days": 0.2,
-   "rank": 14.8,
-   "also_on": [],
-   "id": "astra group|full stack developer react nodejs",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Jobicy",
@@ -1108,7 +589,7 @@
    "salary_max": null,
    "salary_currency": null,
    "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Europe",
+   "eligibility_reason": "Europe: check whether non-EU residents can apply",
    "stack_hits": [
     "node.js",
     "typescript",
@@ -1126,34 +607,7 @@
    "also_on": [],
    "id": "playson|senior backend engineer boosters",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Arbeitnow",
-   "title": "Senior Software Engineer (all identities) - Healthcare Integrations",
-   "company": "Caspar Health",
-   "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-software-engineer-all-identities-healthcare-integrations-berlin-82856",
-   "posted": "2026-10-20T11:30:57+00:00",
-   "location": "Berlin",
-   "description": "Das erwartet Dich Caspar Health connects digital rehabilitation with personal therapeutic care. We help people receive care during and after their clinic stay, wherever they are. We are looking for a Senior Software Engineer to join our Integration Squad. You will develop, roll out, operate and maintain healthcare integrations across Health Level Seven version 2 (HL7 v2), REST application programming interfaces (APIs), Fast Healthcare Interoperability Resources (FHIR) and CSV imports. You will strengthen our backend engineering capacity and help clinic IT teams and software partners connect reliably to Caspar Health. The role covers both existing interfaces and new integrations, from implementation and partner onboarding through production support and ongoing improvement. Hands-on experience implementing and operating FHIR integrations in production is a required qualification. We would like to hear about the production FHIR integrations you have delivered, the systems you connected, the decisions you owned and how you kept the integrations reliable after launch. This role is located in Germany and requires full physical presence within the country . Due to our existing payroll and social security framework, permanent remote employment from abroad is not supported. Candidates must be eligible to work in Germany and resident from their first day. Please be advised that we cannot offer visa sponsorship or relocation assistance at this time. Deine Herausforderungen Develop, roll",
-   "salary": "",
-   "employment_type": "Permanent employment",
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Berlin",
-   "stack_hits": [
-    "typescript",
-    "postgresql",
-    "aws",
-    "backend"
-   ],
-   "stack_score": 7,
-   "annual_usd_estimate": null,
-   "age_days": 0.2,
-   "rank": 13.77,
-   "also_on": [],
-   "id": "caspar health|senior software engineer all identities healthcare integrati",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Jobicy",
@@ -1169,7 +623,7 @@
    "salary_max": null,
    "salary_currency": null,
    "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Europe",
+   "eligibility_reason": "Europe: check whether non-EU residents can apply",
    "stack_hits": [
     "python",
     "node.js",
@@ -1185,35 +639,7 @@
    "also_on": [],
    "id": "playson|senior software engineer game engine",
    "first_seen": "2026-10-20",
-   "new_today": true
-  },
-  {
-   "source": "Ashby (langchain)",
-   "title": "FullStack Engineer, AI Observability & Evals Platform (LangSmith)",
-   "company": "Langchain",
-   "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-   "posted": "2026-10-14T15:18:56.705000+00:00",
-   "location": "San Francisco, CA, Boston, MA, New York, NY",
-   "description": "ABOUT US At LangChain, our mission is to make intelligent agents ubiquitous. We build the foundation for agent engineering in the real world, helping developers move from prototypes to production-ready AI agents that teams can rely on. We began as widely adopted open-source tools and have grown to also offer a platform for building, evaluating, deploying, and operating agents at scale. With $125M raised at Series B from IVP, Sequoia, Benchmark, CapitalG, and Sapphire Ventures, we’re at a stage where we’re continuing to develop new products, growth is accelerating, and all team members have meaningful impact on what we build and how we work together. LangChain is a place where your contributions can shape how this technology shows up in the real world. Today, our platform includes LangSmith (Observability, Evaluation, Deployment, Fleet, and Sandboxes), our open source frameworks (LangChain, LangGraph, and Deep Agents), and the newly launched LangSmith Engine for autonomous agent improvement. We have 100M+ monthly open source downloads, 6,000+ active LangSmith customers, and 5 of the Fortune 10 use LangSmith in production (+ 35% of the Fortune 500 overall), including teams at Klarna, Clay, Coinbase, Workday, Lyft, Cloudflare, Harvey, Rippling, Vanta, LinkedIn, Monday.com, Nvidia, and Bridgewater. ABOUT THE ROLE We're looking for a Fullstack Engineer to work on LangSmith, our commercial AI observability and evals platform product. In this role, you'll have the opportunity to bui",
-   "salary": "",
-   "employment_type": "FullTime",
-   "eligibility": "maybe",
-   "eligibility_reason": "location unclear: San Francisco, CA, Boston, MA, New York, NY",
-   "stack_hits": [
-    "python",
-    "typescript",
-    "postgres",
-    "redis",
-    "backend"
-   ],
-   "stack_score": 11,
-   "annual_usd_estimate": null,
-   "age_days": 6.1,
-   "rank": 13,
-   "also_on": [],
-   "id": "langchain|fullstack engineer ai observability evals platform langsmith",
-   "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
    "source": "Jobicy",
@@ -1229,7 +655,7 @@
    "salary_max": null,
    "salary_currency": null,
    "eligibility": "maybe",
-   "eligibility_reason": "location unclear: Europe",
+   "eligibility_reason": "Europe: check whether non-EU residents can apply",
    "stack_hits": [
     "node",
     "typescript",
@@ -1244,267 +670,139 @@
    "also_on": [],
    "id": "enode|senior software engineer home energy",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   },
   {
-   "source": "Greenhouse (lyft)",
-   "title": "Software Engineer",
-   "company": "Lyft",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
-   "posted": "2026-10-17T02:47:42+00:00",
-   "location": "San Francisco, CA",
-   "description": "Job ID: 111269 At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Responsibilities: Build and own features end-to-end from product specs through deployment and maintenance, ensuring high quality at every stage. Drive frontend architecture for modern web applications using React, TypeScript, and/or Next.js. Collaborate cross-functionally to integrate emerging technologies into our evolving infrastructure. Shape the roadmap by contributing technical perspective on architecture decisions and business priorities. Write maintainable code with comprehensive testing, clear documentation, and thoughtful design. Mentor through code reviews that prioritize both quality and knowledge sharing. Support your team through pairing, healthy technical debates, and a culture of mutual growth. Interface with stakeholders to gather requirements, communicate progress, and respond to technical questions. Experience: Education and Experience: Bachelor's degree or foreign equivalent in Computer Science, Engineering, or related field. 1 year of experience in job offered, software development, or related occupation. Skills: Experience with Python and Flask. Experience with AWS services (DynamoDB and SQS) and Kubernetes. Experience with algorithms, data structures, and object-oriented programming. Experience with SQL or NoSQL databases. Benefits: Great medical, dental, and vision insuran",
+   "source": "Arbeitnow",
+   "title": "Software Engineer, Computer Vision",
+   "company": "Circuithub",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-computer-vision-401580",
+   "posted": "2026-10-20T14:40:40+00:00",
+   "location": "Remote",
+   "description": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied to the chaotic world of prototyping and low-volume production: a 10x throughput improvement in one of the world's most foundational industries. We've raised $45M from top-tier investors including Plural, Y Combinator and Google Ventures, and we're already profitable. Our customers include a major EV maker, a top AI lab and many of the worlds largest companies. The Grid isn't a prototype. It's live, scaling fast and delivering real revenue, and we're building the team that will scale it further. What you'll do Inspect boards. Improve automated optical inspection that finds missing, rotated and wrongly placed parts and bad solder, working alongside our AI agents. Pick reliably. Train and deploy the models that find parts in bins and trays, centre them on the nozzle and catch a clumped or dropped pick. Align precisely. Fiducial detection, calibration and image alignment for placements measured in fractions of a millimetre. Build the data loop. Decide what to capture, build labelling tools, and turn operator verdicts into training data. Go fast. Work with our high-speed cameras and GPU capture pipeline to move vision closer to real time. Measure it. Track accuracy in production, find where errors come from, and prove every change against past res",
    "salary": "",
-   "employment_type": "",
-   "date_is_update": false,
+   "employment_type": "Full Time",
    "eligibility": "maybe",
-   "eligibility_reason": "location unclear: San Francisco, CA",
+   "eligibility_reason": "location unclear: Remote",
    "stack_hits": [
     "python",
-    "flask",
+    "postgresql"
+   ],
+   "stack_score": 5,
+   "annual_usd_estimate": null,
+   "age_days": 0.1,
+   "rank": 10.9,
+   "also_on": [],
+   "id": "circuithub|software engineer computer vision",
+   "first_seen": "2026-10-20",
+   "new_today": false
+  },
+  {
+   "source": "Arbeitnow",
+   "title": "Software Engineer, Robotics",
+   "company": "Circuithub",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-robotics-169035",
+   "posted": "2026-10-20T14:40:40+00:00",
+   "location": "Remote",
+   "description": "About CircuitHub CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied to the chaotic world of prototyping and low-volume production: a 10x throughput improvement in one of the world's most foundational industries. We've raised $45M from top-tier investors including Plural, Y Combinator and Google Ventures, and we're already profitable. Our customers include a major EV maker, a top AI lab and many of the worlds largest companies. The Grid isn't a prototype. It's live, scaling fast and delivering real revenue, and we're building the team that will scale it further. What you'll do Architect the robot operating system. Design the core abstractions: how robots, cameras, tools and jobs are modelled, how work is planned and dispatched, how state is shared and how failures are handled. Decide what belongs in Python and what needs Rust. Bring in new vision. Integrate novel computer vision algorithms into the control loop, from finding and centring parts to checking every pick and placement, and make them fast and reliable enough for production. Build agentic robotics. Put large models to work in the robots themselves: programming a new part from its datasheet, judging a pick from a camera image, diagnosing a fault and recovering from it, with evals that prove it works before it runs alone. Move a fleet. Route dozens of ",
+   "salary": "",
+   "employment_type": "Full Time",
+   "eligibility": "maybe",
+   "eligibility_reason": "location unclear: Remote",
+   "stack_hits": [
+    "python",
+    "postgresql"
+   ],
+   "stack_score": 5,
+   "annual_usd_estimate": null,
+   "age_days": 0.1,
+   "rank": 10.9,
+   "also_on": [],
+   "id": "circuithub|software engineer robotics",
+   "first_seen": "2026-10-20",
+   "new_today": false
+  },
+  {
+   "source": "Jobicy",
+   "title": "Senior Software Engineer, Data Pipeline",
+   "company": "Bloomreach",
+   "url": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline",
+   "posted": "2026-10-18T12:52:48+00:00",
+   "location": "Europe",
+   "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every… Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. We're designing the future of autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. And we're building all of that on the intelligence of a single AI engine — Loomi — so that personalization isn't only autonomous…it's also consistent.From retail to financial services, hospitality to gaming, businesses use Bloomreach to drive higher growth and lasting loyalty. We power personalization for more th",
+   "salary": "",
+   "employment_type": "Full-Time",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_currency": "CZK",
+   "eligibility": "maybe",
+   "eligibility_reason": "Europe: check whether non-EU residents can apply",
+   "stack_hits": [
+    "python",
+    "redis",
+    "mongodb"
+   ],
+   "stack_score": 6,
+   "annual_usd_estimate": null,
+   "age_days": 2.2,
+   "rank": 10.82,
+   "also_on": [],
+   "id": "bloomreach|senior software engineer data pipeline",
+   "first_seen": "2026-10-20",
+   "new_today": false
+  },
+  {
+   "source": "We Work Remotely",
+   "title": "Senior Software Engineer, Product Platform",
+   "company": "Lithic",
+   "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+   "posted": "2026-10-18T07:31:05+00:00",
+   "location": "Anywhere in the World",
+   "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others. We're a team of 170+ across 26 states and 7 countries, headquartered in New York City. We are hiring a Senior Software Engineer for the Product Platform team, which owns the foundational layer of our API that all other Lithic products build on top. The team’s mission is to make Lithic's API the best in fintech — reliable, consistent, and a joy to integrate with. This includes API Gateway, Events Platform, API key management and authorization, audit logging, or API norms and versioning strategy. What you'll do: Write reliable, secure, and scalable code for Lithic's product platform with minimal tec",
+   "salary": "",
+   "employment_type": "Full-Time",
+   "eligibility": "maybe",
+   "eligibility_reason": "location: anywhere; description mentions US work authorization",
+   "stack_hits": [
+    "python",
+    "backend"
+   ],
+   "stack_score": 5,
+   "annual_usd_estimate": null,
+   "age_days": 2.4,
+   "rank": 9.6,
+   "also_on": [],
+   "id": "lithic|senior software engineer product platform",
+   "first_seen": "2026-10-20",
+   "new_today": false
+  },
+  {
+   "source": "Hacker News: Who is hiring",
+   "title": "https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
+   "company": "3Gimbals",
+   "url": "https://news.ycombinator.com/item?id=50095249",
+   "posted": "2026-10-14T21:05:06+00:00",
+   "location": "https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
+   "description": "3Gimbals | https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
+   "salary": "",
+   "employment_type": "",
+   "eligibility": "maybe",
+   "eligibility_reason": "HN remote post, region unclear",
+   "stack_hits": [
+    "python",
     "typescript",
+    "postgresql",
     "aws"
    ],
    "stack_score": 8,
    "annual_usd_estimate": null,
-   "age_days": 3.6,
-   "rank": 12.41,
+   "age_days": 5.8,
+   "rank": 8.16,
    "also_on": [],
-   "id": "lyft|software engineer",
+   "id": "3gimbals|https www linkedin com jobs view 4477632187 us remote hiring",
    "first_seen": "2026-10-20",
-   "new_today": true
+   "new_today": false
   }
  ],
- "others": [
-  {
-   "title": "Software Engineer, Research Tooling",
-   "company": "Cursor",
-   "url": "https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7",
-   "source": "Ashby (cursor)",
-   "location": "Palo Alto, CA",
-   "posted": "2026-10-20T01:56:55.619000+00:00",
-   "eligibility": "maybe",
-   "rank": 12.37
-  },
-  {
-   "title": "Langfuse - Senior Backend Engineer (US-East)",
-   "company": "Clickhouse",
-   "url": "https://jobs.ashbyhq.com/clickhouse/9fbe839e-6ccf-436d-8d83-7a0b3481bfc8",
-   "source": "Ashby (clickhouse)",
-   "location": "New York, Charlotte, Atlanta, Washington D.C., Boston (Remote)",
-   "posted": "2026-10-16T14:13:18.064000+00:00",
-   "eligibility": "maybe",
-   "rank": 11.88
-  },
-  {
-   "title": "Desarrollador Fullstack",
-   "company": "Stefanini",
-   "url": "https://himalayas.app/companies/stefanini/jobs/desarrollador-fullstack-2957643461?utm_source=api",
-   "source": "Himalayas",
-   "location": "Panama (timezones: -5)",
-   "posted": "2026-10-18T13:12:34+00:00",
-   "eligibility": "maybe",
-   "rank": 11.84
-  },
-  {
-   "title": "Full-Stack Software Engineer, Child Safety Tools & Systems (London)",
-   "company": "Openai",
-   "url": "https://jobs.ashbyhq.com/openai/5ad8c21c-dbfe-4e04-9826-7f52aaf0ddc3",
-   "source": "Ashby (openai)",
-   "location": "London, UK",
-   "posted": "2026-10-16T22:45:11.444000+00:00",
-   "eligibility": "maybe",
-   "rank": 11.24
-  },
-  {
-   "title": "Software Engineer, Cloud Computer",
-   "company": "Openai",
-   "url": "https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
-   "source": "Ashby (openai)",
-   "location": "San Francisco (Remote)",
-   "posted": "2026-10-13T17:30:06.719000+00:00",
-   "eligibility": "maybe",
-   "rank": 11
-  },
-  {
-   "title": "Software Engineer, Computer Vision",
-   "company": "Circuithub",
-   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-computer-vision-401580",
-   "source": "Arbeitnow",
-   "location": "Remote",
-   "posted": "2026-10-20T14:40:40+00:00",
-   "eligibility": "maybe",
-   "rank": 10.9
-  },
-  {
-   "title": "Software Engineer, Robotics",
-   "company": "Circuithub",
-   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-robotics-169035",
-   "source": "Arbeitnow",
-   "location": "Remote",
-   "posted": "2026-10-20T14:40:40+00:00",
-   "eligibility": "maybe",
-   "rank": 10.9
-  },
-  {
-   "title": "Senior Software Engineer, Data Pipeline",
-   "company": "Bloomreach",
-   "url": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline",
-   "source": "Jobicy",
-   "location": "Europe",
-   "posted": "2026-10-18T12:52:48+00:00",
-   "eligibility": "maybe",
-   "rank": 10.83
-  },
-  {
-   "title": "Senior Python Engineer, Integration",
-   "company": "Fliff",
-   "url": "https://himalayas.app/companies/fliff/jobs/senior-python-engineer-integration-8816478072?utm_source=api",
-   "source": "Himalayas",
-   "location": "Bulgaria (timezones: 2)",
-   "posted": "2026-10-15T05:45:48+00:00",
-   "eligibility": "maybe",
-   "rank": 10.53
-  },
-  {
-   "title": "Software Engineer I, Fullstack (Search)",
-   "company": "Affirm",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
-   "source": "Greenhouse (affirm)",
-   "location": "Remote US",
-   "posted": "2026-10-15T21:31:09+00:00",
-   "eligibility": "maybe",
-   "rank": 10.19
-  },
-  {
-   "title": "Senior Software Engineer, Backend (Lakehouse Infra)",
-   "company": "Affirm",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8013442003",
-   "source": "Greenhouse (affirm)",
-   "location": "Remote US",
-   "posted": "2026-10-13T19:47:31+00:00",
-   "eligibility": "maybe",
-   "rank": 10
-  },
-  {
-   "title": "Senior Software Engineer, Atlas API Experience - Integrations",
-   "company": "MongoDB",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8280948",
-   "source": "Greenhouse (mongodb)",
-   "location": "Dublin",
-   "posted": "2026-10-14T10:04:51+00:00",
-   "eligibility": "maybe",
-   "rank": 10
-  },
-  {
-   "title": "Senior Full-Stack Engineer, Cohere Dashboard",
-   "company": "Cohere",
-   "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
-   "source": "Ashby (cohere)",
-   "location": "Toronto, Ottawa, Montreal (Remote)",
-   "posted": "2026-10-13T23:49:23.157000+00:00",
-   "eligibility": "maybe",
-   "rank": 10
-  },
-  {
-   "title": "Senior Software Engineer, Product Platform",
-   "company": "Lithic",
-   "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
-   "source": "We Work Remotely",
-   "location": "Anywhere in the World",
-   "posted": "2026-10-18T07:31:05+00:00",
-   "eligibility": "maybe",
-   "rank": 9.6
-  },
-  {
-   "title": "Client Platform Engineer",
-   "company": "Openai",
-   "url": "https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236",
-   "source": "Ashby (openai)",
-   "location": "San Francisco (Remote)",
-   "posted": "2026-10-15T00:16:24.105000+00:00",
-   "eligibility": "maybe",
-   "rank": 9.3
-  },
-  {
-   "title": "Staff+ Software Engineer, Platform Acceleration",
-   "company": "Anthropic",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451889008",
-   "source": "Greenhouse (anthropic)",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "posted": "2026-10-14T03:02:38+00:00",
-   "eligibility": "maybe",
-   "rank": 9
-  },
-  {
-   "title": "Senior+ Backend Software Engineer - Asia",
-   "company": "Palmstreet",
-   "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
-   "source": "Jobicy",
-   "location": "China",
-   "posted": "2026-10-15T02:50:10+00:00",
-   "eligibility": "maybe",
-   "rank": 8.41
-  },
-  {
-   "title": "https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
-   "company": "3Gimbals",
-   "url": "https://news.ycombinator.com/item?id=50095249",
-   "source": "Hacker News: Who is hiring",
-   "location": "https://www.linkedin.com/jobs/view/4477632187 (US/Remote) Hiring entry / mid-level full stack swe's with strong experience with Python, React/TypeScript, CSS, REST APIs, SQL/PostgreSQL, and experience with LLMs, RAG, prompt engineering, and AWS cloud. We are a small team doing a cool mix of application dev on our webapp OMEN, etl stuff, and harness engineering. If interested apply! Requirement: US Citizenship, Ability to obtain government clearance Salary: $120k-$160k depending on experience",
-   "posted": "2026-10-14T21:05:06+00:00",
-   "eligibility": "maybe",
-   "rank": 8.17
-  },
-  {
-   "title": "Senior Full Stack Software Developer - Observability",
-   "company": "Elastic",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8276133&gh_jid=8276133",
-   "source": "Greenhouse (elastic)",
-   "location": "Greece",
-   "posted": "2026-10-13T10:33:55+00:00",
-   "eligibility": "maybe",
-   "rank": 8
-  },
-  {
-   "title": "Software Engineer II",
-   "company": "Cision",
-   "url": "https://jobicy.com/jobs/155439-software-engineer-ii",
-   "source": "Jobicy",
-   "location": "Hungary",
-   "posted": "2026-10-16T13:31:01+00:00",
-   "eligibility": "maybe",
-   "rank": 7.85
-  },
-  {
-   "title": "Software Engineer - Graph Analytics",
-   "company": "Neo4j",
-   "url": "https://boards.greenhouse.io/neo4j/jobs/4721380006?gh_jid=4721380006",
-   "source": "Greenhouse (neo4j)",
-   "location": "Malmö",
-   "posted": "2026-10-13T09:03:28+00:00",
-   "eligibility": "maybe",
-   "rank": 7
-  },
-  {
-   "title": "Software Engineer, Storage Integrations",
-   "company": "Stripe",
-   "url": "https://stripe.com/jobs/search?gh_jid=8231178",
-   "source": "Greenhouse (stripe)",
-   "location": "Bucharest",
-   "posted": "2026-10-14T10:48:57+00:00",
-   "eligibility": "maybe",
-   "rank": 7
-  },
-  {
-   "title": "Software Engineer, RL Data",
-   "company": "Cursor",
-   "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-   "source": "Ashby (cursor)",
-   "location": "Palo Alto, CA",
-   "posted": "2026-10-12T20:53:44.567000+00:00",
-   "eligibility": "maybe",
-   "rank": 7
-  }
- ]
+ "others": []
 }
