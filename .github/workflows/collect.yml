@@ -1,0 +1,36 @@
+name: Collect jobs
+
+on:
+  schedule:
+    - cron: "10 5 * * *"   # 06:10 Lagos time; the daily search reads the results at 06:58
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check filters
+        run: python tests/test_filters.py
+      - name: Collect
+        run: python -m radar.collect
+      - name: Save results
+        run: |
+          git config user.name "job-radar bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Shortlist for $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash
+          git push
