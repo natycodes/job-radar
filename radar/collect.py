@@ -434,7 +434,7 @@ def eligibility(j: dict) -> tuple[str, str]:
         head = desc[:400]
         if any_term(head, ["worldwide", "anywhere", "global", "emea", "africa", "europe", "remote (eu", "remote eu"]):
             verdict, why = "maybe", "HN post mentions remote beyond the US"
-        elif any_term(head, ["us only", "us-only", "remote (us", "remote us", "us remote", "usa", "us/canada", "north america"]):
+        elif any_term(head, ["us only", "us-only", "remote (us", "remote us", "us remote", "usa", "us/canada", "north america", "(us/", "us/remote", "remote/us", "(us)", "us-remote", "remote-us"]):
             return "no", "HN post is US-only remote"
         else:
             verdict, why = "maybe", "HN remote post, region unclear"
