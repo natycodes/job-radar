@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "10 5 * * *"   # 06:10 Lagos time; the daily search reads the results at 06:58
   workflow_dispatch: {}
+  push:                    # re-run whenever the collector or its settings change
+    branches: [main]
+    paths: ["radar/**", "config/**", ".github/workflows/**"]
 
 permissions:
   contents: write
