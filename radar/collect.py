@@ -439,7 +439,18 @@ def eligibility(j: dict) -> tuple[str, str]:
         else:
             verdict, why = "maybe", "HN remote post, region unclear"
     else:
-        verdict, why = "maybe", "location unclear: " + (j.get("location") or "not stated")
+        # Anything left after removing generic words names a specific place that isn't on the eligible list.
+        rest = re.sub(r"\(timezones:[^)]*\)", " ", loc)
+        rest = re.sub(r"\b(remote|remotely|hybrid|fully|full|work from home|wfh|home|based|distributed|"
+                      r"position|first|friendly|ok|only|or|and|in|the|any|location|locations|n/a|na|tbd|"
+                      r"flexible|various|multiple)\b", " ", rest)
+        rest = re.sub(r"[^a-z]+", " ", rest).strip()
+        if not rest:
+            verdict, why = "maybe", "location unclear: " + (j.get("location") or "not stated")
+        elif re.fullmatch(r"(eu|europe|european union|european)( (eu|europe|european union|european))*", rest):
+            verdict, why = "maybe", "Europe: check whether non-EU residents can apply"
+        else:
+            return "no", "limited to: " + (j.get("location") or "")[:100]
     if US_ONLY_RE.search(desc):
         return ("maybe" if verdict == "yes" else "no"), why + "; description mentions US work authorization"
     return verdict, why

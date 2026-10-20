@@ -102,7 +102,18 @@
   "trainer",
   "ai trainer",
   "annotator",
-  "freelance writer"
+  "freelance writer",
+  "stage ",
+  "stagiaire",
+  "praktikum",
+  "praktikant",
+  "werkstudent",
+  "alternance",
+  "alternant",
+  "pasant",
+  "becario",
+  "est\u00e1gio",
+  "tirocinio"
  ],
  "stack_terms": {
   "python": 3,

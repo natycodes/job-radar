@@ -39,6 +39,13 @@ def test_location_rules():
     assert r["eligibility"] == "maybe"
     assert ev("Backend Engineer", loc="Remote",
               desc="Python Django Postgres REST API. Must be located in the US.") is None
+    for place in ["Venezuela (timezones: -4)", "Czechia (timezones: 1)", "Remote - US", "Paris",
+                  "San Francisco (Remote)", "Toronto, Ottawa (Remote)", "London, UK", "Greece", "Bucharest"]:
+        assert ev("Backend Engineer", loc=place) is None, place
+    assert ev("Backend Engineer", loc="Nigeria (timezones: 1)")["eligibility"] == "yes"
+    assert ev("Backend Engineer", loc="Remote (Remote)")["eligibility"] == "maybe"
+    assert ev("Backend Engineer", loc="Europe, Middle East, Africa")["eligibility"] == "yes"
+    assert ev("Stage Développeur Full Stack (H/F)", loc="Anywhere") is None
 
 
 def test_title_rules():
