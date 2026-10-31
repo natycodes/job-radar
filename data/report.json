@@ -1,65 +1,65 @@
 {
- "generated_at": "2026-10-30T11:19:00.721182+00:00",
+ "generated_at": "2026-10-31T10:51:12.459998+00:00",
  "sources": {
   "Remotive": {
-   "fetched": 24,
+   "fetched": 26,
+   "seconds": 0.1
+  },
+  "Arbeitnow": {
+   "fetched": 96,
    "seconds": 0.3
   },
   "Working Nomads": {
    "fetched": 25,
-   "seconds": 0.4
-  },
-  "Arbeitnow": {
-   "fetched": 113,
    "seconds": 0.6
   },
   "Remote OK": {
    "fetched": 99,
-   "seconds": 0.7
-  },
-  "We Work Remotely": {
-   "fetched": 112,
    "seconds": 0.8
   },
   "Hacker News": {
-   "fetched": 147,
-   "seconds": 1.1
+   "fetched": 145,
+   "seconds": 0.8
+  },
+  "We Work Remotely": {
+   "fetched": 116,
+   "seconds": 0.9
   },
   "Jobicy": {
-   "fetched": 20,
-   "seconds": 1.7
+   "fetched": 28,
+   "seconds": 1.8
   },
   "Himalayas": {
-   "fetched": 350,
-   "seconds": 8.3
+   "fetched": 334,
+   "seconds": 9.6
   },
   "Greenhouse company boards": {
    "boards": 74,
    "ok": 74,
-   "jobs": 9747
+   "jobs": 9775
   },
   "Lever company boards": {
    "boards": 13,
    "ok": 13,
-   "jobs": 732
+   "jobs": 724
   },
   "Ashby company boards": {
    "boards": 65,
    "ok": 65,
-   "jobs": 3608
+   "jobs": 3617
   },
   "Workable company boards": {
    "boards": 37,
    "ok": 37,
-   "jobs": 275
+   "jobs": 280
   }
  },
  "failed_boards": [],
  "errors": [],
  "counts": {
-  "fetched": 15252,
-  "passed_filters": 10,
-  "shortlist": 10,
-  "new_today": 2
+  "fetched": 15265,
+  "passed_filters": 12,
+  "shortlist": 12,
+  "new_today": 3
  }
 }
