@@ -23,10 +23,12 @@
   "river",
   "runway-ml",
   "sentilink",
-  "solace"
+  "solace",
+  "stream"
  ],
  "workable": [
   "modash",
-  "seeq"
+  "seeq",
+  "valis-insights-1"
  ]
 }
