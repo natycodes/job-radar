@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-11-20T13:56:30.317700+00:00",
+ "generated_at": "2026-11-21T13:22:49.455317+00:00",
  "sources": {
-  "Working Nomads": {
-   "fetched": 24,
+  "Remotive": {
+   "fetched": 32,
    "seconds": 0.2
   },
-  "Remotive": {
-   "fetched": 30,
-   "seconds": 0.2
+  "Working Nomads": {
+   "fetched": 23,
+   "seconds": 0.3
+  },
+  "Arbeitnow": {
+   "fetched": 99,
+   "seconds": 0.6
   },
   "Remote OK": {
-   "fetched": 98,
-   "seconds": 0.5
+   "fetched": 100,
+   "seconds": 0.7
   },
   "Hacker News": {
    "fetched": 138,
-   "seconds": 0.7
+   "seconds": 1.1
   },
   "We Work Remotely": {
-   "fetched": 136,
-   "seconds": 0.7
-  },
-  "Arbeitnow": {
-   "fetched": 88,
-   "seconds": 0.9
-  },
-  "Himalayas": {
-   "fetched": 344,
-   "seconds": 7.9
+   "fetched": 167,
+   "seconds": 3.5
   },
   "Jobicy": {
-   "fetched": 220,
-   "seconds": 8.0
+   "fetched": 214,
+   "seconds": 4.4
+  },
+  "Himalayas": {
+   "fetched": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "Greenhouse company boards": {
    "boards": 76,
    "ok": 75,
-   "jobs": 9644
+   "jobs": 9702
   },
   "Lever company boards": {
    "boards": 13,
    "ok": 11,
-   "jobs": 738
+   "jobs": 731
   },
   "Ashby company boards": {
    "boards": 68,
    "ok": 68,
-   "jobs": 3667
+   "jobs": 3674
   },
   "Workable company boards": {
    "boards": 38,
    "ok": 38,
-   "jobs": 317
+   "jobs": 321
   }
  },
  "failed_boards": [
@@ -71,11 +71,13 @@
    "error": "HTTPError: HTTP Error 404: Not Found"
   }
  ],
- "errors": [],
+ "errors": [
+  "himalayas search: HTTP Error 429: Too Many Requests"
+ ],
  "counts": {
-  "fetched": 15444,
-  "passed_filters": 17,
-  "shortlist": 17,
-  "new_today": 4
+  "fetched": 15201,
+  "passed_filters": 10,
+  "shortlist": 10,
+  "new_today": 1
  }
 }
