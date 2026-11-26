@@ -49,6 +49,8 @@
 "constructor|software engineer core": "2026-11-24",
 "cursor|software engineer research tooling": "2026-10-20",
 "cursor|software engineer rl data": "2026-10-20",
+"customer io|senior software engineer backend platform": "2026-11-26",
+"dataiku|fullstack software engineer core engineering": "2026-11-26",
 "descript|software engineer product": "2026-11-23",
 "doximity|senior software engineer data platform": "2026-11-23",
 "dropbox|backend product software engineer": "2026-10-31",
@@ -151,6 +153,7 @@
 "supabase|data api engineer": "2026-10-25",
 "supabase|platform engineer compute": "2026-10-20",
 "supabase|platform engineer compute capacity": "2026-10-26",
+"supabase|platform engineer database": "2026-11-26",
 "supabase|platform engineer edge networking": "2026-11-07",
 "supabase|platform engineer managed postgres": "2026-10-20",
 "supabase|sdk engineer python": "2026-10-20",
@@ -176,5 +179,6 @@
 "xperteez technology|sr full stack software engineer remote": "2026-11-15",
 "zoftify travel software development|backend developer node": "2026-10-26",
 "zoftify travel software development|backend team lead": "2026-10-26",
-"zoftify travel software development|python developer": "2026-10-25"
+"zoftify travel software development|python developer": "2026-10-25",
+"zoominfo technologies llc|senior software engineer java us remote": "2026-11-26"
 }
